@@ -1,0 +1,15 @@
+body,div,html,p,img,audio{
+	margin: 0;
+	padding: 0;
+}
+
+#bark {
+	visibility: hidden;
+}
+
+#dog {
+	position: fixed;
+	display: block;
+	top: 0;
+	left: 0;
+}
